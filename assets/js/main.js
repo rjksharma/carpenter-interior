@@ -10,7 +10,7 @@ const lightbox = document.getElementById("lightbox");
 const lightboxImage = document.getElementById("lightboxImage");
 const lightboxCaption = document.getElementById("lightboxCaption");
 const lightboxClose = document.getElementById("lightboxClose");
-const contactNumber = "919742741841";
+const contactNumber = "919742741843";
 
 if (year) {
   year.textContent = new Date().getFullYear();
