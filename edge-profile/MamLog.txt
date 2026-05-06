@@ -1,0 +1,18 @@
+[2026-05-06T15:28:47.085Z] [INFO] ========================================================================================================================
+[2026-05-06T15:28:47.086Z] [INFO] Initializing MAM Client.
+App: com.microsoft.edge 147.0.3912.86
+SDK: 2.1.367.0
+OS: windows 10.0.26200.8246
+DeviceType: Desktop
+Manufacturer: HP
+Model: HP Laptop 15s-fq5xxx
+Telemetry: yes
+Managed device support: enabled
+[2026-05-06T15:28:47.113Z] [INFO] Telemetry session ec83ca20-f71a-44b4-8aa3-980f5ca866f1.
+[2026-05-06T15:28:47.123Z] [INFO] Initializing cache (v1).
+[2026-05-06T15:28:47.237Z] [INFO] Registered UserID:36c5961f-7d43-4ce9-9d1b-5a0a18d03ee3 in the Azure public cloud.
+[2026-05-06T15:28:47.237Z] [INFO] Conditional Access is blocked for UserID:36c5961f-7d43-4ce9-9d1b-5a0a18d03ee3 pre-enrollment; compliance reporting will be accelerated to unblock the user.
+[2026-05-06T15:28:47.237Z] [INFO] Queuing pre-enrollment policy assignment check for UserID:36c5961f-7d43-4ce9-9d1b-5a0a18d03ee3 to run as soon as possible.
+[2026-05-06T15:28:47.237Z] [INFO] Scheduler background thread starting for UserID:36c5961f-7d43-4ce9-9d1b-5a0a18d03ee3.
+[2026-05-06T15:28:52.492Z] [INFO] Shutting down.
+[2026-05-06T15:28:52.492Z] [INFO] Stopping the task scheduler and canceling any outstanding work items...

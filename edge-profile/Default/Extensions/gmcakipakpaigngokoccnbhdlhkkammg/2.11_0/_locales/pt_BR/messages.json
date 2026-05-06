@@ -1,0 +1,532 @@
+{
+   "app_account_create_denied": {
+      "message": "Você não tem permissão para criar uma nova conta do Google conforme a Política."
+   },
+   "app_alert_msg": {
+      "message": "Este é um alerta de $controller$",
+      "placeholders": {
+         "controller": {
+            "content": "$1"
+         }
+      }
+   },
+   "app_contact_admin": {
+      "message": "Por favor, entre em contato com seu administrador em caso de qualquer dúvida."
+   },
+   "app_email_detect": {
+      "message": "E-mail"
+   },
+   "app_enable_plugin": {
+      "message": "Por favor, habilite o plugin para ler os dados do site."
+   },
+   "app_ext_desc": {
+      "message": "Extensão de navegador para aplicar o recurso Google e YouTube Access Controller do SEQRITE Endpoint Protection Console."
+   },
+   "app_google_access_ctrl": {
+      "message": "Controlador de Acesso do Google"
+   },
+   "app_google_access_denied": {
+      "message": "Acesso a esta conta $application$ está bloqueado sob a política.",
+      "placeholders": {
+         "application": {
+            "content": "$1"
+         }
+      }
+   },
+   "app_google_access_with_number_denied": {
+      "message": "Encontrar ou fazer login na conta $feature$ usando número de telefone é proibido conforme a política.",
+      "placeholders": {
+         "feature": {
+            "content": "$1"
+         }
+      }
+   },
+   "app_inject_script": {
+      "message": "Não foi possível injetar Script"
+   },
+   "app_microsoft_access_ctrl": {
+      "message": "Controlador do Microsoft Access"
+   },
+   "app_microsoft_account_create_denied": {
+      "message": "Você não tem permissão para criar uma nova conta Microsoft conforme a Política."
+   },
+   "app_microsoft_github_denied": {
+      "message": "Você não tem permissão para fazer login na conta Microsoft usando o Github conforme a Política."
+   },
+   "app_name": {
+      "message": "Controlador de Acesso Web"
+   },
+   "app_prod_desc": {
+      "message": "SEQRITE Proteção de Endpoint"
+   },
+   "app_service_worker": {
+      "message": "Acesso Negado às Configurações de Service Workers."
+   },
+   "app_video_category": {
+      "message": "Categoria do Vídeo"
+   },
+   "app_video_channel": {
+      "message": "Canal do Vídeo"
+   },
+   "app_video_channel_location": {
+      "message": "Localização do Canal de Vídeo"
+   },
+   "app_video_publisher": {
+      "message": "Publicador do Vídeo"
+   },
+   "app_yal_category": {
+      "message": "Categoria"
+   },
+   "app_yal_catid_0": {
+      "message": "Desconhecido"
+   },
+   "app_yal_catid_1": {
+      "message": "Filme & Animação"
+   },
+   "app_yal_catid_10": {
+      "message": "Música"
+   },
+   "app_yal_catid_15": {
+      "message": "Pets & Animais"
+   },
+   "app_yal_catid_17": {
+      "message": "Esportes"
+   },
+   "app_yal_catid_18": {
+      "message": "Filmes Curtos"
+   },
+   "app_yal_catid_19": {
+      "message": "Viagens & Eventos"
+   },
+   "app_yal_catid_2": {
+      "message": "Automóveis & Veículos"
+   },
+   "app_yal_catid_20": {
+      "message": "Jogos"
+   },
+   "app_yal_catid_21": {
+      "message": "blogue de vídeo"
+   },
+   "app_yal_catid_22": {
+      "message": "Pessoas & Blogs"
+   },
+   "app_yal_catid_23": {
+      "message": "Comédia"
+   },
+   "app_yal_catid_24": {
+      "message": "Entretenimento"
+   },
+   "app_yal_catid_25": {
+      "message": "Notícias & Política"
+   },
+   "app_yal_catid_26": {
+      "message": "Como Fazer & Estilo"
+   },
+   "app_yal_catid_27": {
+      "message": "Educação"
+   },
+   "app_yal_catid_28": {
+      "message": "Ciência & Tecnologia"
+   },
+   "app_yal_catid_29": {
+      "message": "ONGs & Ativismo"
+   },
+   "app_yal_catid_30": {
+      "message": "Filmes"
+   },
+   "app_yal_catid_31": {
+      "message": "Anime/Animação"
+   },
+   "app_yal_catid_32": {
+      "message": "Ação/Aventura"
+   },
+   "app_yal_catid_33": {
+      "message": "Clássicos"
+   },
+   "app_yal_catid_34": {
+      "message": "Comédia"
+   },
+   "app_yal_catid_35": {
+      "message": "Documentário"
+   },
+   "app_yal_catid_36": {
+      "message": "Drama"
+   },
+   "app_yal_catid_37": {
+      "message": "Família"
+   },
+   "app_yal_catid_38": {
+      "message": "Estrangeiro"
+   },
+   "app_yal_catid_39": {
+      "message": "Terror"
+   },
+   "app_yal_catid_40": {
+      "message": "Ciencia Ficção/Fantasia"
+   },
+   "app_yal_catid_41": {
+      "message": "thriller"
+   },
+   "app_yal_catid_42": {
+      "message": "Curta"
+   },
+   "app_yal_catid_43": {
+      "message": "Séries"
+   },
+   "app_yal_catid_44": {
+      "message": "Reboques"
+   },
+   "app_yal_channel": {
+      "message": "Canal"
+   },
+   "app_yal_location": {
+      "message": "Localização"
+   },
+   "app_yal_locid_0": {
+      "message": "Desconhecido"
+   },
+   "app_yal_locid_1": {
+      "message": "Argélia"
+   },
+   "app_yal_locid_10": {
+      "message": "Bolívia"
+   },
+   "app_yal_locid_100": {
+      "message": "Uganda"
+   },
+   "app_yal_locid_101": {
+      "message": "Ucrânia"
+   },
+   "app_yal_locid_102": {
+      "message": "Emirados Árabes Unidos"
+   },
+   "app_yal_locid_103": {
+      "message": "United Kingdom"
+   },
+   "app_yal_locid_104": {
+      "message": "United States"
+   },
+   "app_yal_locid_105": {
+      "message": "Uruguai"
+   },
+   "app_yal_locid_106": {
+      "message": "Venezuela"
+   },
+   "app_yal_locid_107": {
+      "message": "Vietnã"
+   },
+   "app_yal_locid_108": {
+      "message": "Iêmen"
+   },
+   "app_yal_locid_109": {
+      "message": "Zimbábue"
+   },
+   "app_yal_locid_11": {
+      "message": "Bósnia e Herzegovina"
+   },
+   "app_yal_locid_12": {
+      "message": "Brasil"
+   },
+   "app_yal_locid_13": {
+      "message": "Bulgária"
+   },
+   "app_yal_locid_14": {
+      "message": "Camboja"
+   },
+   "app_yal_locid_15": {
+      "message": "Canada"
+   },
+   "app_yal_locid_16": {
+      "message": "Chile"
+   },
+   "app_yal_locid_17": {
+      "message": "Colômbia"
+   },
+   "app_yal_locid_18": {
+      "message": "Costa Rica"
+   },
+   "app_yal_locid_19": {
+      "message": "Croácia"
+   },
+   "app_yal_locid_2": {
+      "message": "Argentina"
+   },
+   "app_yal_locid_20": {
+      "message": "Chipre"
+   },
+   "app_yal_locid_21": {
+      "message": "República Tcheca"
+   },
+   "app_yal_locid_22": {
+      "message": "Dinamarca"
+   },
+   "app_yal_locid_23": {
+      "message": "República Dominicana"
+   },
+   "app_yal_locid_24": {
+      "message": "Equador"
+   },
+   "app_yal_locid_25": {
+      "message": "Egito"
+   },
+   "app_yal_locid_26": {
+      "message": "El Salvador"
+   },
+   "app_yal_locid_27": {
+      "message": "Estônia"
+   },
+   "app_yal_locid_28": {
+      "message": "Finlândia"
+   },
+   "app_yal_locid_29": {
+      "message": "França"
+   },
+   "app_yal_locid_3": {
+      "message": "Australia"
+   },
+   "app_yal_locid_30": {
+      "message": "Geórgia"
+   },
+   "app_yal_locid_31": {
+      "message": "Alemanha"
+   },
+   "app_yal_locid_32": {
+      "message": "Gana"
+   },
+   "app_yal_locid_33": {
+      "message": "Grécia"
+   },
+   "app_yal_locid_34": {
+      "message": "Guatemala"
+   },
+   "app_yal_locid_35": {
+      "message": "Honduras"
+   },
+   "app_yal_locid_36": {
+      "message": "Hong Kong"
+   },
+   "app_yal_locid_37": {
+      "message": "Hungria"
+   },
+   "app_yal_locid_38": {
+      "message": "Islândia"
+   },
+   "app_yal_locid_39": {
+      "message": "India"
+   },
+   "app_yal_locid_4": {
+      "message": "Austria"
+   },
+   "app_yal_locid_40": {
+      "message": "Indonésia"
+   },
+   "app_yal_locid_41": {
+      "message": "Iraque"
+   },
+   "app_yal_locid_42": {
+      "message": "Irlanda"
+   },
+   "app_yal_locid_43": {
+      "message": "Israel"
+   },
+   "app_yal_locid_44": {
+      "message": "Itália"
+   },
+   "app_yal_locid_45": {
+      "message": "Jamaica"
+   },
+   "app_yal_locid_46": {
+      "message": "Japan"
+   },
+   "app_yal_locid_47": {
+      "message": "Jordânia"
+   },
+   "app_yal_locid_48": {
+      "message": "Cazaquistão"
+   },
+   "app_yal_locid_49": {
+      "message": "Kenya"
+   },
+   "app_yal_locid_5": {
+      "message": "Azerbaijão"
+   },
+   "app_yal_locid_50": {
+      "message": "Kuwait"
+   },
+   "app_yal_locid_51": {
+      "message": "Laos"
+   },
+   "app_yal_locid_52": {
+      "message": "Letônia"
+   },
+   "app_yal_locid_53": {
+      "message": "Líbano"
+   },
+   "app_yal_locid_54": {
+      "message": "Líbia"
+   },
+   "app_yal_locid_55": {
+      "message": "Liechtenstein"
+   },
+   "app_yal_locid_56": {
+      "message": "Lituânia"
+   },
+   "app_yal_locid_57": {
+      "message": "Luxemburgo"
+   },
+   "app_yal_locid_58": {
+      "message": "Malásia"
+   },
+   "app_yal_locid_59": {
+      "message": "Malta"
+   },
+   "app_yal_locid_6": {
+      "message": "Bahrein"
+   },
+   "app_yal_locid_60": {
+      "message": "México"
+   },
+   "app_yal_locid_61": {
+      "message": "Montenegro"
+   },
+   "app_yal_locid_62": {
+      "message": "Marrocos"
+   },
+   "app_yal_locid_63": {
+      "message": "Nebraska"
+   },
+   "app_yal_locid_64": {
+      "message": "Países Baixos"
+   },
+   "app_yal_locid_65": {
+      "message": "Nova Zelândia"
+   },
+   "app_yal_locid_66": {
+      "message": "Nicarágua"
+   },
+   "app_yal_locid_67": {
+      "message": "Nigéria"
+   },
+   "app_yal_locid_68": {
+      "message": "Macedônia do Norte"
+   },
+   "app_yal_locid_69": {
+      "message": "Noruega"
+   },
+   "app_yal_locid_7": {
+      "message": "Bangladesh"
+   },
+   "app_yal_locid_70": {
+      "message": "Omã"
+   },
+   "app_yal_locid_71": {
+      "message": "Paquistão"
+   },
+   "app_yal_locid_72": {
+      "message": "Panamá"
+   },
+   "app_yal_locid_73": {
+      "message": "Papua-Nova Guiné"
+   },
+   "app_yal_locid_74": {
+      "message": "Paraguai"
+   },
+   "app_yal_locid_75": {
+      "message": "Peru"
+   },
+   "app_yal_locid_76": {
+      "message": "Filipinas"
+   },
+   "app_yal_locid_77": {
+      "message": "Polônia"
+   },
+   "app_yal_locid_78": {
+      "message": "Portugal"
+   },
+   "app_yal_locid_79": {
+      "message": "Porto Rico"
+   },
+   "app_yal_locid_8": {
+      "message": "Bielorrússia"
+   },
+   "app_yal_locid_80": {
+      "message": "Catar"
+   },
+   "app_yal_locid_81": {
+      "message": "Romania"
+   },
+   "app_yal_locid_82": {
+      "message": "Rússia"
+   },
+   "app_yal_locid_83": {
+      "message": "Arábia Saudita"
+   },
+   "app_yal_locid_84": {
+      "message": "Senegal"
+   },
+   "app_yal_locid_85": {
+      "message": "Sérvia"
+   },
+   "app_yal_locid_86": {
+      "message": "Cingapura"
+   },
+   "app_yal_locid_87": {
+      "message": "Eslováquia"
+   },
+   "app_yal_locid_88": {
+      "message": "Eslovênia"
+   },
+   "app_yal_locid_89": {
+      "message": "África do Sul"
+   },
+   "app_yal_locid_9": {
+      "message": "Bélgica"
+   },
+   "app_yal_locid_90": {
+      "message": "South Korea"
+   },
+   "app_yal_locid_91": {
+      "message": "Spain"
+   },
+   "app_yal_locid_92": {
+      "message": "Sri Lanka"
+   },
+   "app_yal_locid_93": {
+      "message": "Suécia"
+   },
+   "app_yal_locid_94": {
+      "message": "Switzerland"
+   },
+   "app_yal_locid_95": {
+      "message": "Taiwan"
+   },
+   "app_yal_locid_96": {
+      "message": "Tanzânia"
+   },
+   "app_yal_locid_97": {
+      "message": "Tailândia"
+   },
+   "app_yal_locid_98": {
+      "message": "Tunísia"
+   },
+   "app_yal_locid_99": {
+      "message": "Turquia"
+   },
+   "app_yal_publisher": {
+      "message": "Publicador"
+   },
+   "app_yal_videoid": {
+      "message": "ID do Vídeo"
+   },
+   "app_youtube_allow_list": {
+      "message": "Controlador de Acesso ao YouTube"
+   },
+   "app_youtube_video_block": {
+      "message": "Acesso a este vídeo do YouTube está bloqueado por $attributes$ sob a Política.",
+      "placeholders": {
+         "attributes": {
+            "content": "$1"
+         }
+      }
+   }
+}

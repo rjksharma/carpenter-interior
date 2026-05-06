@@ -1,0 +1,22 @@
+{
+   "background": {
+      "service_worker": "core/background.js",
+      "type": "module"
+   },
+   "default_locale": "en",
+   "description": "__MSG_app_ext_desc__",
+   "host_permissions": [ "http://*/*", "https://*/*" ],
+   "icons": {
+      "128": "assets/icon128.png",
+      "16": "assets/icon16.png",
+      "48": "assets/icon48.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjLzm6NBmSsIxTVSs+X27e7uOeU5AmV8oMUvOjdNqp/D6qct3OXd1TN7CxEz1ZIKf0EO3hClS2XQ6Ql9vVDBd5YOTmncKbtu9VsxkWDqCjnX37/7pzTTipcprVs/3gm6aHLX3kZ5+UHT5N+l+uQUjmbG1ZiUsfo7yN0AbtWnAyjYL3L43KG9kKe2OXSLku2D1rYKuypcbmGyC13XqoTptZqf6MkU4B1WanXkA1pHJdoJWuxwwNLK/5D4FzfM7z08XvspDAZ1fv5Pmgqqw5HZIvx0tCAqhRsvGrqz60tbA0CFpI4UtRCsBaCVfa8MuCDJuFS4mb9Uhp54jcXj4mfHgnwIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "92",
+   "name": "__MSG_app_name__",
+   "permissions": [ "webNavigation", "webRequest", "scripting", "storage", "tabs" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "2.11"
+}

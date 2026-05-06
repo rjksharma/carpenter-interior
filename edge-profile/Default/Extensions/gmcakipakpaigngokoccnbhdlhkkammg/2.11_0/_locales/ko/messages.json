@@ -1,0 +1,523 @@
+{
+   "app_account_create_denied": {
+      "message": "정책에 따라 새 Google 계정을 만들 수 없습니다."
+   },
+   "app_alert_msg": {
+      "message": "이것은 $controller$에서 보낸 경고입니다.",
+      "placeholders": {
+         "controller": {
+            "content": "$1"
+         }
+      }
+   },
+   "app_contact_admin": {
+      "message": "질문이 있는 경우 관리자에게 문의하십시오."
+   },
+   "app_email_detect": {
+      "message": "이메일"
+   },
+   "app_enable_plugin": {
+      "message": "사이트 데이터를 읽으려면 플러그인을 활성화하세요."
+   },
+   "app_ext_desc": {
+      "message": "SEQRITE Endpoint Protection Console에서 Google 및 YouTube 액세스 컨트롤러 기능을 시행하는 브라우저 확장입니다."
+   },
+   "app_google_access_ctrl": {
+      "message": "Google 액세스 컨트롤러"
+   },
+   "app_google_access_denied": {
+      "message": "이 $application$ 계정에 대한 액세스는 정책에 따라 차단됩니다.",
+      "placeholders": {
+         "application": {
+            "content": "$1"
+         }
+      }
+   },
+   "app_google_access_with_number_denied": {
+      "message": "전화번호를 사용하여 $feature$ 계정을 찾거나 로그인하는 것은 정책에 따라 금지됩니다.",
+      "placeholders": {
+         "feature": {
+            "content": "$1"
+         }
+      }
+   },
+   "app_inject_script": {
+      "message": "스크립트를 삽입할 수 없음"
+   },
+   "app_name": {
+      "message": "웹 액세스 컨트롤러"
+   },
+   "app_prod_desc": {
+      "message": "SEQRITE Endpoint Protection"
+   },
+   "app_service_worker": {
+      "message": "서비스 작업자 설정 액세스 거부됨."
+   },
+   "app_video_category": {
+      "message": "동영상 범주"
+   },
+   "app_video_channel": {
+      "message": "동영상 채널"
+   },
+   "app_video_channel_location": {
+      "message": "동영상 채널 위치"
+   },
+   "app_video_publisher": {
+      "message": "동영상 발행자"
+   },
+   "app_yal_category": {
+      "message": "범주"
+   },
+   "app_yal_catid_0": {
+      "message": "알 수 없음"
+   },
+   "app_yal_catid_1": {
+      "message": "영화 & 애니메이션"
+   },
+   "app_yal_catid_10": {
+      "message": "음악"
+   },
+   "app_yal_catid_15": {
+      "message": "애완동물 & 동물"
+   },
+   "app_yal_catid_17": {
+      "message": "스포츠"
+   },
+   "app_yal_catid_18": {
+      "message": "단편 영화"
+   },
+   "app_yal_catid_19": {
+      "message": "여행 & 이벤트"
+   },
+   "app_yal_catid_2": {
+      "message": "자동차 & 차량"
+   },
+   "app_yal_catid_20": {
+      "message": "게임"
+   },
+   "app_yal_catid_21": {
+      "message": "비디오블로깅"
+   },
+   "app_yal_catid_22": {
+      "message": "인물 & 블로그"
+   },
+   "app_yal_catid_23": {
+      "message": "코메디"
+   },
+   "app_yal_catid_24": {
+      "message": "엔터테인먼트"
+   },
+   "app_yal_catid_25": {
+      "message": "뉴스 & 정치"
+   },
+   "app_yal_catid_26": {
+      "message": "하우투(HowTo) & 스타일"
+   },
+   "app_yal_catid_27": {
+      "message": "교육"
+   },
+   "app_yal_catid_28": {
+      "message": "과학 & 기술"
+   },
+   "app_yal_catid_29": {
+      "message": "비영리단체 & 활동가"
+   },
+   "app_yal_catid_30": {
+      "message": "영화"
+   },
+   "app_yal_catid_31": {
+      "message": "애니/애니메이션"
+   },
+   "app_yal_catid_32": {
+      "message": "액션/어드벤처"
+   },
+   "app_yal_catid_33": {
+      "message": "클래식"
+   },
+   "app_yal_catid_34": {
+      "message": "코메디"
+   },
+   "app_yal_catid_35": {
+      "message": "다큐멘터리"
+   },
+   "app_yal_catid_36": {
+      "message": "드라마"
+   },
+   "app_yal_catid_37": {
+      "message": "가족"
+   },
+   "app_yal_catid_38": {
+      "message": "외국"
+   },
+   "app_yal_catid_39": {
+      "message": "공포"
+   },
+   "app_yal_catid_40": {
+      "message": "SF/판타지"
+   },
+   "app_yal_catid_41": {
+      "message": "스릴러"
+   },
+   "app_yal_catid_42": {
+      "message": "단편"
+   },
+   "app_yal_catid_43": {
+      "message": "쇼"
+   },
+   "app_yal_catid_44": {
+      "message": "예고편"
+   },
+   "app_yal_channel": {
+      "message": "채널"
+   },
+   "app_yal_location": {
+      "message": "위치"
+   },
+   "app_yal_locid_0": {
+      "message": "알 수 없음"
+   },
+   "app_yal_locid_1": {
+      "message": "알제리"
+   },
+   "app_yal_locid_10": {
+      "message": "볼리비아"
+   },
+   "app_yal_locid_100": {
+      "message": "우간다"
+   },
+   "app_yal_locid_101": {
+      "message": "우크라이나"
+   },
+   "app_yal_locid_102": {
+      "message": "아랍에미리트"
+   },
+   "app_yal_locid_103": {
+      "message": "영국"
+   },
+   "app_yal_locid_104": {
+      "message": "미국"
+   },
+   "app_yal_locid_105": {
+      "message": "우루과이"
+   },
+   "app_yal_locid_106": {
+      "message": "베네주엘라"
+   },
+   "app_yal_locid_107": {
+      "message": "베트남"
+   },
+   "app_yal_locid_108": {
+      "message": "예멘"
+   },
+   "app_yal_locid_109": {
+      "message": "짐바브웨"
+   },
+   "app_yal_locid_11": {
+      "message": "보스니아 헤르체코비나"
+   },
+   "app_yal_locid_12": {
+      "message": "브라질"
+   },
+   "app_yal_locid_13": {
+      "message": "불가리아"
+   },
+   "app_yal_locid_14": {
+      "message": "캄보디아"
+   },
+   "app_yal_locid_15": {
+      "message": "캐나다"
+   },
+   "app_yal_locid_16": {
+      "message": "칠레"
+   },
+   "app_yal_locid_17": {
+      "message": "콜롬비아"
+   },
+   "app_yal_locid_18": {
+      "message": "코스타리카"
+   },
+   "app_yal_locid_19": {
+      "message": "크로아티아"
+   },
+   "app_yal_locid_2": {
+      "message": "아르헨티나"
+   },
+   "app_yal_locid_20": {
+      "message": "키프로스"
+   },
+   "app_yal_locid_21": {
+      "message": "체코"
+   },
+   "app_yal_locid_22": {
+      "message": "덴마크"
+   },
+   "app_yal_locid_23": {
+      "message": "도미니카 공화국"
+   },
+   "app_yal_locid_24": {
+      "message": "에콰도르"
+   },
+   "app_yal_locid_25": {
+      "message": "이집트"
+   },
+   "app_yal_locid_26": {
+      "message": "엘살바도르"
+   },
+   "app_yal_locid_27": {
+      "message": "에스토니아"
+   },
+   "app_yal_locid_28": {
+      "message": "핀란드"
+   },
+   "app_yal_locid_29": {
+      "message": "프랑스"
+   },
+   "app_yal_locid_3": {
+      "message": "호주"
+   },
+   "app_yal_locid_30": {
+      "message": "그루지야"
+   },
+   "app_yal_locid_31": {
+      "message": "독일"
+   },
+   "app_yal_locid_32": {
+      "message": "가나"
+   },
+   "app_yal_locid_33": {
+      "message": "그리스"
+   },
+   "app_yal_locid_34": {
+      "message": "과테말라"
+   },
+   "app_yal_locid_35": {
+      "message": "온두라스"
+   },
+   "app_yal_locid_36": {
+      "message": "홍콩"
+   },
+   "app_yal_locid_37": {
+      "message": "헝가리"
+   },
+   "app_yal_locid_38": {
+      "message": "아이슬란드"
+   },
+   "app_yal_locid_39": {
+      "message": "인도"
+   },
+   "app_yal_locid_4": {
+      "message": "오스트리아"
+   },
+   "app_yal_locid_40": {
+      "message": "인도네시아"
+   },
+   "app_yal_locid_41": {
+      "message": "이라크"
+   },
+   "app_yal_locid_42": {
+      "message": "아일랜드"
+   },
+   "app_yal_locid_43": {
+      "message": "이스라엘"
+   },
+   "app_yal_locid_44": {
+      "message": "이탈리아"
+   },
+   "app_yal_locid_45": {
+      "message": "자메이카"
+   },
+   "app_yal_locid_46": {
+      "message": "일본"
+   },
+   "app_yal_locid_47": {
+      "message": "요르단"
+   },
+   "app_yal_locid_48": {
+      "message": "카자흐스탄"
+   },
+   "app_yal_locid_49": {
+      "message": "케냐"
+   },
+   "app_yal_locid_5": {
+      "message": "아제르바이잔"
+   },
+   "app_yal_locid_50": {
+      "message": "쿠웨이트"
+   },
+   "app_yal_locid_51": {
+      "message": "라오스"
+   },
+   "app_yal_locid_52": {
+      "message": "라트비아"
+   },
+   "app_yal_locid_53": {
+      "message": "레바논"
+   },
+   "app_yal_locid_54": {
+      "message": "리비아"
+   },
+   "app_yal_locid_55": {
+      "message": "리히텐슈타인"
+   },
+   "app_yal_locid_56": {
+      "message": "리투아니아"
+   },
+   "app_yal_locid_57": {
+      "message": "룩셈부르크"
+   },
+   "app_yal_locid_58": {
+      "message": "말레이시아"
+   },
+   "app_yal_locid_59": {
+      "message": "몰타"
+   },
+   "app_yal_locid_6": {
+      "message": "바레인"
+   },
+   "app_yal_locid_60": {
+      "message": "멕시코"
+   },
+   "app_yal_locid_61": {
+      "message": "몬테네그로"
+   },
+   "app_yal_locid_62": {
+      "message": "모로코"
+   },
+   "app_yal_locid_63": {
+      "message": "네팔"
+   },
+   "app_yal_locid_64": {
+      "message": "네덜란드"
+   },
+   "app_yal_locid_65": {
+      "message": "뉴질랜드"
+   },
+   "app_yal_locid_66": {
+      "message": "니카라과"
+   },
+   "app_yal_locid_67": {
+      "message": "나이지리아"
+   },
+   "app_yal_locid_68": {
+      "message": "북마케도니아"
+   },
+   "app_yal_locid_69": {
+      "message": "노르웨이"
+   },
+   "app_yal_locid_7": {
+      "message": "방글라데시"
+   },
+   "app_yal_locid_70": {
+      "message": "오만"
+   },
+   "app_yal_locid_71": {
+      "message": "파키스탄"
+   },
+   "app_yal_locid_72": {
+      "message": "마나마"
+   },
+   "app_yal_locid_73": {
+      "message": "파푸아뉴기니"
+   },
+   "app_yal_locid_74": {
+      "message": "파라과이"
+   },
+   "app_yal_locid_75": {
+      "message": "페루"
+   },
+   "app_yal_locid_76": {
+      "message": "필리핀"
+   },
+   "app_yal_locid_77": {
+      "message": "폴란드"
+   },
+   "app_yal_locid_78": {
+      "message": "포르투갈"
+   },
+   "app_yal_locid_79": {
+      "message": "푸에르토리코"
+   },
+   "app_yal_locid_8": {
+      "message": "벨로루시"
+   },
+   "app_yal_locid_80": {
+      "message": "카타르"
+   },
+   "app_yal_locid_81": {
+      "message": "루마니아"
+   },
+   "app_yal_locid_82": {
+      "message": "러시아"
+   },
+   "app_yal_locid_83": {
+      "message": "사우디아라비아"
+   },
+   "app_yal_locid_84": {
+      "message": "세네갈"
+   },
+   "app_yal_locid_85": {
+      "message": "세르비아"
+   },
+   "app_yal_locid_86": {
+      "message": "싱가포르"
+   },
+   "app_yal_locid_87": {
+      "message": "슬로바키아"
+   },
+   "app_yal_locid_88": {
+      "message": "슬로베니아"
+   },
+   "app_yal_locid_89": {
+      "message": "남아프리카 공화국"
+   },
+   "app_yal_locid_9": {
+      "message": "벨기에"
+   },
+   "app_yal_locid_90": {
+      "message": "대한민국"
+   },
+   "app_yal_locid_91": {
+      "message": "스페인"
+   },
+   "app_yal_locid_92": {
+      "message": "스리랑카"
+   },
+   "app_yal_locid_93": {
+      "message": "스웨덴"
+   },
+   "app_yal_locid_94": {
+      "message": "스위스"
+   },
+   "app_yal_locid_95": {
+      "message": "타이완"
+   },
+   "app_yal_locid_96": {
+      "message": "탄자니아"
+   },
+   "app_yal_locid_97": {
+      "message": "태국"
+   },
+   "app_yal_locid_98": {
+      "message": "튀니지"
+   },
+   "app_yal_locid_99": {
+      "message": "튀르키예"
+   },
+   "app_yal_publisher": {
+      "message": "게시자"
+   },
+   "app_yal_videoid": {
+      "message": "동영상 ID"
+   },
+   "app_youtube_allow_list": {
+      "message": "YouTube 액세스 컨트롤러"
+   },
+   "app_youtube_video_block": {
+      "message": "정책에 근거하여 이 YouTube 동영상에 대한 액세스는 $attributes$에 의해  차단됩니다.",
+      "placeholders": {
+         "attributes": {
+            "content": "$1"
+         }
+      }
+   }
+}

@@ -1,0 +1,5 @@
+2026/05/06-20:58:43.946 4fe0 Creating DB D:\Raj Kumar\Documents\UpSkilling\sharma-interior\edge-profile\Default\EdgeCoupons/coupons_data.db since it was missing.
+2026/05/06-20:58:43.973 4fe0 Reusing MANIFEST D:\Raj Kumar\Documents\UpSkilling\sharma-interior\edge-profile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/05/06-20:58:45.638 20c4 Level-0 table #5: started
+2026/05/06-20:58:45.658 20c4 Level-0 table #5: 682137 bytes OK
+2026/05/06-20:58:45.662 20c4 Delete type=0 #3
